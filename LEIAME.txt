@@ -1,0 +1,33 @@
+LEIA-ME
+
+Endereço onde o site está hospedado: https://webservicenoticias.000webhostapp.com/ead4
+
+Acesse nossa página "sobre" no website hospedado que contém uma explicação resumida do funcionamento do mesmo.
+
+*** DADOS PARA ACESSO INICIAL AO SISTEMA ***
+
+SUPERVISOR ------------------------------------------//
+Nome: José Supervisor
+Login: supervisor@supervisor.com
+Senha: 12345
+
+PACIENTE -------------------------------------------//
+Nome: Maria Paciente
+Login: paciente@paciente.com
+Senha: 12345
+
+ANALISTA ------------------------------------------//
+Nome: Mateus Analista
+Login: analista@analista.com
+Senha: 12345
+
+MÉDICO COM RESTRIÇÃO -----------------------------//
+Nome: Marina Médica Restrita
+Login: medicorestrito@medico.com
+Senha: 12345
+restrição: não pode solicitar exames de alto custo
+
+MÉDICO SEM RESTRIÇÃO -----------------------------//
+Nome: Pedro Médico Irrestrito
+Login: medicoirrestrito@medico.com
+Senha: 12345
