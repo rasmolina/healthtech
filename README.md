@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/rasmolina/healthtech)
 
 
-# :mortar_board: Programação Web II (Web Programming II)
+# :mortar_board: Programação Web I (Web Programming I)
 
 :triangular_flag_on_post: Teacher: Prof. Dr. Tiago Trojahn
 
@@ -15,7 +15,7 @@
 :calendar: Developed at 2021 second half
 
 ## Content
-Project developed in the course of systems analysis and development using PHP in the backend and JavaScript/CSS in the FrontEnd
+Project developed in the course of Systems Analysis and Development using PHP for the backend and HTML, JavaScript and CSS for the FrontEnd.
 
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
