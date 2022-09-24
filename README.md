@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/rasmolina/healthtech)
 
 
-# :mortar_board: Programação Web I (Web Programming I)
+# :mortar_board: Programação Web II (Web Programming II)
 
 :triangular_flag_on_post: Teacher: Prof. Dr. Tiago Trojahn
 
